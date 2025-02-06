@@ -19,8 +19,7 @@ This application predicts the breed of a dog based on an uploaded image using a 
 
 ### Step 2: Installing Dependencies
 Navigate to the project directory in your terminal:
-```bash
-cd C:\Users\oveem\OneDrive\Desktop\OVEE MANOLKAR\Data Science Projects\Dog Breed Classification\My project
+cd "your_working_directory"
 
 ### Step 3: Generate the requirements.txt file
 pipreqs
